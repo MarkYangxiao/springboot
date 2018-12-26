@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+person:
+ age: 19
+ boss: false
+ date: 2018/12/24
+
+ map: {K1: v1, K2: v2}
+ list:
+  - 1
+  - 2
+  - 3
+ dog:
+  name: xiaohei
+  owner: yangxiao
+ last-name: yangxiao
